@@ -18,9 +18,16 @@ it is next level of abstract
 
 - if we only primarily declare abstract methods for implementation by the clases
 - we use implements to use this instead of extends 
-````$
+````
 class Interaface Transport{
     public void commute();
     // no need to add abstract
 }
 ````
+
+```
+//use implements to override and declare
+class Car extends Vehicle implments Transport{
+
+}
+```

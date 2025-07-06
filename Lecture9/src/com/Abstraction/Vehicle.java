@@ -4,10 +4,16 @@ package com.Abstraction;
 // we also make it abstract and then its child class's responsibility to make or define that funciton
 // in this way we no need to define the function at parent end but needed to defined at child end
 
-abstract class Vehicle {
+import com.Interface.Transport;
+
+public abstract class Vehicle implements Transport {
 
     private int noOfTires;
 
+    @Override
+    public void getSetGo(){
+        System.out.println("We are set to go!");
+    }
     protected Vehicle( int noOfTires){
         this.noOfTires = noOfTires;
     }
