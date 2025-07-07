@@ -11,6 +11,6 @@ public class Test {
         c2.setRadius(15);
         System.out.println(c1.calculateArea());
 
-        System.out.println(c2.getClass().getAnnotations() + " : " + c2.calculateArea() );
+        System.out.println(c2.getClass().getTypeName()+ " : " + c2.calculateArea() );
     }
 }

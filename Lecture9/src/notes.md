@@ -31,3 +31,27 @@ class Car extends Vehicle implments Transport{
 
 }
 ```
+
+# Polymorphism
+showing different form when in different situation or whos calling 
+- ### Method overiding and Overloading
+- Runtime polymorphism = authomatically takes the child class method even though the reference is from the Parent object
+- Compile time overriding = using overide method
+
+
+## Super
+Super is used to access immediate parent class to access 
+
+## Access level should always is increased not decreased while doing overrideing 
+means if parent set it to public then we can't override to private or lower access in child class
+
+## Final use in method
+if didn't want method to be overridden then make it `final`
+
+## Final use in class
+if used with class then it can't have subclasses
+
+    - using final is much helpful when compiler making assumption that it will not change accross whole program 
+
+# Pass by Value 
+the value is copied not sent to it 
