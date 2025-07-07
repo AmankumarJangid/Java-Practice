@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d93c545-c8cb-4737-b0ce-a5840a03836c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture 10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Aman/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture10/Lecture10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture10/src/Notes/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture10/src/com/aman/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/fourth/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/fourth/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/second/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/second/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/second/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/second/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/third/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/com/example/PassByReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/com/example/PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture9/src/com/example/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture9/src/Challenges/first/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture9/src/Challenges/first/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture9/src/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture9/src/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/ExceptionCallStack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/difference between throw and throws.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Aman/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Aman/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
