@@ -20,9 +20,9 @@ public class Calculator {
     public static void b(){
         c();
     }
-    public static void c(){
-        d();
-    }
+
+    public static void c(){d();}
+
     public static void d(){
         Scanner input = new Scanner(System.in);
 
@@ -42,9 +42,15 @@ public class Calculator {
 ////    catch(ArithmeticException | ArrayIndexOutOfBoundsException e){ // multiple exception can using PIPE Operator ( | )
 //            System.out.println("Multiple Exception");
 //        }
-        catch( Throwable e){ // or can (Throwable t) to catch any kind exception or error
+        catch( Throwable e){
+            if(e.getMessage().equals("/ by zero")){
+                System.out.println("Divided by zero");// or can (Throwable t) to catch any kind exception or error
+            }
+            else{
+
             System.out.println("Last Exception");
             throw e;
+            }
         }
         // It always runs
         finally { // runs even if exception is handled or not
