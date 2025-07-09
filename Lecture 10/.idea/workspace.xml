@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d93c545-c8cb-4737-b0ce-a5840a03836c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Notes/ExampleFileWriter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/FileReader.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/FileWriter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/fileWriterClosingErrorINFileHandling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileHandling/MyFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileHandling/MyFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fileHandling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Revision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Aman/Challenge88.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Aman/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Aman/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.Challenge88.executor": "Run",
     "Application.MyFileReader.executor": "Run",
     "Application.MyFileWriter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
