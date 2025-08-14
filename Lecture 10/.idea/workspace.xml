@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d93c545-c8cb-4737-b0ce-a5840a03836c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Notes/Revision.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Aman/Challenge88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/throw&amp;throws.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/typesOfExceptions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Aman/Challenge882.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Aman/UserDefinedExcepiton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/CollectionsClass/CollectionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/CollectionsClass/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/ListInterface/ListInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/ListInterface/ListMethods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/QueueInterface/Queue Method.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/QueueInterface/Queue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/QueueInterface/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/SetInterface/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/SetInterface/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/SetInterface/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/SetInterface/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/CollectionsPractice/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/Notes/CollectionClasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/Notes/ListMethods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/VariableArguments/VarArgs2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/FileHandling/MyFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/FileHandling/MyFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture11 Collection and Generics/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +52,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculator.executor": "Run",
-    "Application.Challenge88.executor": "Run",
-    "Application.MyFileReader.executor": "Run",
-    "Application.MyFileWriter.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Challenge88.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Challenge882.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyFileReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyFileWriter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserDefinedExcepiton.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

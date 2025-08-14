@@ -37,3 +37,21 @@ throws IllegalArgumentException{
     System.out.println(name);
 }
 ````
+
+---
+- Checked exception must be handled (such as FileNotFound must be handled )
+
+- but unchecked exception are not necessary or mandatory to handle so we can either skip the try catch block
+
+---
+# Throw and Throws
+
+We use 
+````
+// We use throws to define any exceptions such that 
+Syntax- 
+throws MyException{
+    if( name.contains("-")){
+        throw new MyException
+
+```

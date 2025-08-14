@@ -14,7 +14,7 @@ public class MyFileWriter {
 
         String filename = "MyJavaCourseTest.txt";
 //        FileWriter writer;
-        try (FileWriter  writer = new FileWriter(filename)){
+        try (FileWriter  writer = new FileWriter(filename)){  // Try with resources
            // it stores the file the default outside of the project
             for( int i = 0 ; i < 10 ; i++)// in example img we used try with resources
                 writer.write("Hello this is a special program to handle files\n");
