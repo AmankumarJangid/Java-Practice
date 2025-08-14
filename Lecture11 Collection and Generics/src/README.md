@@ -55,3 +55,10 @@ Generic type are only exist during compile time, it not been in the after compil
 
 ### List created through `````'List.of'````` is always Immutable
 ### `````List<Integer> list = List.of(elements...); // is an immuateble list `````
+
+# Map Interface
+
+Maps is part of Collection but don't use Collections interface
+
+Means it does'not extends the Collections interface 
+
